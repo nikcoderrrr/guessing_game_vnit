@@ -1,4 +1,6 @@
 # guessing_game.py
+# Fix login issue (GG-1)
+
 import random
 
 def display_title():
